@@ -1,0 +1,1 @@
+console.log("Welcome to The E-commerce Platformers for All Prospective Farmers");
